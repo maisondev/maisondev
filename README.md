@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Maison+👋;Frontend+Developer+🎨;JavaScript+%2B+TypeScript;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 <p>
-  Desenvolvedor frontend apaixonado por interfaces modernas, dados abertos e open source.<br/>
-  Baseado no Brasil 🇧🇷 &nbsp;|&nbsp; Sempre aprendendo, sempre criando.
+  Desenvolvedor de Software com +16 anos em TI · Full Stack · IA · Cloud<br/>
+  Na PRODAM-AM desde 2018 · Manaus, Amazonas 🇧🇷 · Disponível para remoto
 </p>
 
 </div>
@@ -13,11 +13,12 @@
 
 ## 👨‍💻 Sobre Mim
 
-- 🎯 Focado em **Frontend** com JavaScript e TypeScript
-- 🌱 Aprofundando conhecimentos no ecossistema **JS/TS**
-- 📊 Interessado em **dados governamentais abertos** e projetos de curadoria
-- 🤝 Buscando colaborar com **projetos open-source** que façam diferença
-- 🔗 Encontre tudo sobre mim em **[linktr.ee/maison.dev](https://linktr.ee/maison.dev)**
+- 💼 Desenvolvedor de Software na **PRODAM-AM** desde 2018, com +16 anos em TI
+- 🤖 Especialista em **Inteligência Artificial**, Full Stack, Cloud e Gestão Pública
+- 🧠 Pós-graduado em **Full Stack**, **Cloud Computing** e **Inteligência Artificial**
+- 📊 Apaixonado por **dados abertos governamentais** e soluções para o setor público
+- 🤝 Buscando colaborar com **projetos open-source** que resolvam problemas reais
+- 🔗 Encontre tudo sobre mim em **[maisongalvao.dev](https://maisongalvao.dev/pt)**
 
 ---
 
