@@ -105,6 +105,7 @@ Se você tiver um projeto nessas áreas, me chama! 👇
 
 <div align="center">
 
+[![Site](https://img.shields.io/badge/maisongalvao.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maisongalvao.dev/pt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maisongalvao)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:maisongalvao@outlook.com)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/maison.dev)
